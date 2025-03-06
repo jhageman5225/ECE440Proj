@@ -19,3 +19,7 @@ DDMR controlled using Raspberry Pi 5
 - Iin3 = pin 23 on RPi
 - Iin4 = pin 24 on Rpi
 ### Node 2 (Rear)
+
+## To-Do
+- Connect Pi to internet
+- Buy remaining parts
